@@ -1,0 +1,12 @@
+.div1{
+  width: 500px;
+  border: 1px solid green;
+  padding: 25px;
+  margin: 25px;
+  align-self: center;
+}
+.btn{
+  float: left;
+  margin: 5px;
+
+}
